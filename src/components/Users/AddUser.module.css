@@ -27,6 +27,10 @@
   }
   
 .form h2{
+  margin-top: -2px;
+  font-size: 25px;
+  font-weight: 900;
   text-align: center;
+  justify-self: center;
 }
 
